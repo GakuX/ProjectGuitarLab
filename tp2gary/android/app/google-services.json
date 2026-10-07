@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632288774484",
+    "project_id": "tp3-gary",
+    "storage_bucket": "tp3-gary.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632288774484:android:0bfd644e458965a94d20c1",
+        "android_client_info": {
+          "package_name": "com.example.tp2gary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdxP9ouqlm8iMHn3j5eqAr__KYfwWvPIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
